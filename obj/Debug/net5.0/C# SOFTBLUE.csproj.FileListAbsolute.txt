@@ -1,0 +1,16 @@
+/home/joyce/Documents/C# SOFTBLUE/obj/Debug/net5.0/C# SOFTBLUE.csproj.AssemblyReference.cache
+/home/joyce/Documents/C# SOFTBLUE/obj/Debug/net5.0/C# SOFTBLUE.GeneratedMSBuildEditorConfig.editorconfig
+/home/joyce/Documents/C# SOFTBLUE/obj/Debug/net5.0/C# SOFTBLUE.AssemblyInfoInputs.cache
+/home/joyce/Documents/C# SOFTBLUE/obj/Debug/net5.0/C# SOFTBLUE.AssemblyInfo.cs
+/home/joyce/Documents/C# SOFTBLUE/obj/Debug/net5.0/C# SOFTBLUE.csproj.CoreCompileInputs.cache
+/home/joyce/Documents/C# SOFTBLUE/bin/Debug/net5.0/C# SOFTBLUE
+/home/joyce/Documents/C# SOFTBLUE/bin/Debug/net5.0/C# SOFTBLUE.deps.json
+/home/joyce/Documents/C# SOFTBLUE/bin/Debug/net5.0/C# SOFTBLUE.runtimeconfig.json
+/home/joyce/Documents/C# SOFTBLUE/bin/Debug/net5.0/C# SOFTBLUE.runtimeconfig.dev.json
+/home/joyce/Documents/C# SOFTBLUE/bin/Debug/net5.0/C# SOFTBLUE.dll
+/home/joyce/Documents/C# SOFTBLUE/bin/Debug/net5.0/ref/C# SOFTBLUE.dll
+/home/joyce/Documents/C# SOFTBLUE/bin/Debug/net5.0/C# SOFTBLUE.pdb
+/home/joyce/Documents/C# SOFTBLUE/obj/Debug/net5.0/C# SOFTBLUE.dll
+/home/joyce/Documents/C# SOFTBLUE/obj/Debug/net5.0/ref/C# SOFTBLUE.dll
+/home/joyce/Documents/C# SOFTBLUE/obj/Debug/net5.0/C# SOFTBLUE.pdb
+/home/joyce/Documents/C# SOFTBLUE/obj/Debug/net5.0/C# SOFTBLUE.genruntimeconfig.cache

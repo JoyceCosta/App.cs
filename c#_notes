@@ -1,0 +1,35 @@
+C#
+
+para rodar o código que escreveu, sempre use "mono", exemplo: "mono App.exe", como mostrado no link a seguir: https://www.mono-project.com/docs/getting-started/mono-basics/ 
+
+
+Pelo menos rodando no terminal pois essa é a forma de rodar C# no Linux. 
+
+
+
+RUN THE CODE ON VSCODE TERMINAL: 
+
+The .NET Build System does not work with loose .cs files (or f# or vb for that matter), it needs at least a Project. You can generate a Project file by using dotnet new <template> as follows:
+
+
+• md MyProject
+• cd MyProject
+• dotnet new console 
+
+
+Now you have a folder MyProject, containing MyProject.csproj and a default Program.cs file.
+To run it, you can now do: 
+
+• dotnet run 
+
+
+This will open and read the .csproj file, it will build all the sourcefiles and packages that are referenced inside it into an executable, and then it will run that. 
+
+
+
+Fonte da bela descoberta acima: https://stackoverflow.com/questions/56775156/cant-run-code-using-dotnet-run-command-in-visual-studio-couldnt-find-a-proje/56775234 
+
+Obs: no arquivo "launch.json", na parte: "project", o nome no final do arquivo fica na extensão ".dll"  
+
+
+
